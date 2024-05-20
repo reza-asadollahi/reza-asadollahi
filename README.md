@@ -1,11 +1,11 @@
 ## Hi I am Reza
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-asadollahi) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyedreza.asadollahi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/reza-asadollahi) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seyedreza.asadollahi@gmail.com) 
 
 🌱 I’m currently learning:
 
- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)     ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
  ![NextJs 14](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 💬 you can ask me about
