@@ -1,6 +1,7 @@
 ## Hi I am Reza
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-asadollahi) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyedreza.asadollahi@gmail.com) 
 
 🌱 I’m currently learning:
 
