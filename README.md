@@ -1,30 +1,67 @@
-## Hi I am Reza
+# Hi, I'm Reza 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/reza-asadollahi) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seyedreza.asadollahi@gmail.com) 
+I'm a **Software Engineering with a strong focus on Frontend Developer**.
 
-🌱 I’m currently learning:
+I enjoy building practical, user-friendly applications and working with teams to turn ideas into reliable products.
 
- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)     ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
- ![NextJs 14](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)       ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+My main expertise is on the **frontend**, especially JavaScript/TypeScript, React, Next.js and Angular. Over the years, working with and leading development teams also pushed me to understand the backend side more deeply. I've worked with different backend technologies and languages, from **Java and Python to Node.js**, and I'm particularly comfortable with **Node.js, NestJS, TypeORM, and PostgreSQL**.
 
-💬 you can ask me about
+I enjoy sharing what I know, helping other developers solve problems, and collaborating with teams on challenging projects or open-source work.
 
+### 💬 Things I enjoy talking about
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)     ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)     ![Angular](https://img.shields.io/badge/angular-dd1b16.svg?style=flat-square&logo=angular&logoColor=white)     ![RxJS](https://img.shields.io/badge/RxJS-ff0090.svg?style=flat-square&logo=reactivex&logoColor=white)     ![NextJs 14](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+* Frontend architecture & application design
+* React, Next.js & Angular
+* JavaScript & TypeScript
+* Node.js & NestJS
+* APIs, databases & system integration
+* Performance, scalability & clean code
+* Docker & development workflows
+* Building and shipping real-world products
+* Team collaboration and technical problem solving
 
+### 🛠️ Tech Stack
 
-## Tech Stack:
+**Frontend**
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)     ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)     ![Angular](https://img.shields.io/badge/angular-dd1b16.svg?style=flat-square&logo=angular&logoColor=white)     ![RxJS](https://img.shields.io/badge/RxJS-ff0090.svg?style=flat-square&logo=reactivex&logoColor=white)     ![Angular Material](https://img.shields.io/badge/Material_UI-ffa726.svg?style=flat-square&logo=monero&logoColor=white)     ![NextJs 14](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)      ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A??style=flat-square&logo=tailwindcss)        ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)     ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)      ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=flat-square&logo=Bootstrap&logoColor=white)      ![npm](https://img.shields.io/badge/npm-cc3534?style=flat-square&logo=npm&logoColor=white)     ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black)      ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square\&logo=reactivex\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square\&logo=redux\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square\&logo=sass\&logoColor=white)
 
-### Backend
+**Backend & Data**
 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)       ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)     ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)       ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)       ![MogoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square\&logo=typeorm\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
-### Tools
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)      ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)      ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-08253C?style=flat-square&logo=Adobe%20Photoshop&logoColor=37ABFF)      ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-2D1A08?style=flat-square&logo=Adobe%20Illustrator&logoColor=ff8008)
+**Mobile & Tools**
 
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square\&logo=capacitor\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+
+### 🚀 What I enjoy
+
+I like working on products from idea to production, especially where **good UX, clean architecture, and practical engineering** come together.
+
+I'm always happy to help other developers or teams with technical challenges, discuss architecture and approaches, or collaborate on interesting **open-source projects**.
+
+If you're building something interesting, feel free to reach out.
+
+### 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/reza-asadollahi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:seyedreza.asadollahi@gmail.com)
