@@ -18,7 +18,9 @@ I enjoy sharing what I know, helping other developers solve problems, and collab
 * Performance, scalability & clean code
 * Docker & development workflows
 * Building and shipping real-world products
-* Team collaboration and technical problem solving
+* Team collaboration and Cross‑team communication and technical problem solving
+* Strategic planning and project execution
+* Mentoring and skill development for engineers
 
 ### 🛠️ Tech Stack
 
